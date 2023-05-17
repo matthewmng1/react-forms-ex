@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshop 1`] = `
+<DocumentFragment>
+  <div>
+    <h1>
+      Color Box Maker
+    </h1>
+    <form>
+      <label
+        for="width"
+      >
+        Width:
+      </label>
+      <input
+        id="width"
+        name="width"
+        placeholder="Enter Width"
+        type="number"
+        value=""
+      />
+      <label
+        for="height"
+      >
+        Height:
+      </label>
+      <input
+        id="height"
+        name="height"
+        placeholder="Enter Height"
+        type="number"
+        value=""
+      />
+      <label
+        for="color"
+      >
+        Color:
+      </label>
+      <input
+        id="color"
+        name="color"
+        placeholder="Enter Color"
+        type="text"
+        value=""
+      />
+      <button>
+        Add Color Box
+      </button>
+    </form>
+    <div />
+  </div>
+</DocumentFragment>
+`;
